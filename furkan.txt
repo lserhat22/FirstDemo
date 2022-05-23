@@ -1,2 +1,2 @@
 serhatın reposuna ilk commit
-pu
+push
