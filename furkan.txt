@@ -1,3 +1,4 @@
 serhatın reposuna ilk commit
 push
 Deneme
+Deneme 2
