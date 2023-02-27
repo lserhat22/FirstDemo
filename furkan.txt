@@ -16,4 +16,3 @@ committ
 sssss
 test for reanalysis
 deneme
-WIP PR
