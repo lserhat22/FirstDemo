@@ -13,8 +13,8 @@ public class BaseSteps {
     }
 
     static void bug3(){
-        List<String> list;
-        list.add("Birol");
+        List<String> list=null;
+        //list.add("Birol");
         for (int i = 1; i < 0; i++) {
             list.get(i);
         }
