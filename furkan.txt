@@ -19,3 +19,4 @@ deneme
 auto pr improvment
 squash
 conflict remote
+resolved
