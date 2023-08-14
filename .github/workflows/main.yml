@@ -1,0 +1,17 @@
+name: Event Example
+
+on:
+  pull_request:
+    types:
+      - opened
+
+jobs:
+  print_event_info:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print Event Info
+        run: |
+          echo "Event name: ${{ github.event_name }}"
+          echo "Pull request title: ${{ github.event.pull_request.title }}"
+          echo "Pull request number: ${{ github.event.pull_request.number }}"
+          echo "Pull request number: ${{ github.event }}"
