@@ -18,5 +18,4 @@ test for reanalysis
 deneme
 auto pr improvment
 squash
-conflict remote
-resolved
+asdasd
