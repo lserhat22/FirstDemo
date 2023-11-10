@@ -21,3 +21,5 @@ squash
 asdas
 bakugan savaş
 test
+ilk commit 
+ikinci commit w caglayan
