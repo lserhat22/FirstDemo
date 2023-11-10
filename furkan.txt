@@ -21,3 +21,4 @@ squash
 asdas
 bakugan savaş
 test
+ilk commit 
