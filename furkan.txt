@@ -23,3 +23,4 @@ bakugan savaş
 test
 ilk commit 
 ikinci commit w caglayan
+merge sonrası ilk commit
