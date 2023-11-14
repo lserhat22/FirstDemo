@@ -26,3 +26,4 @@ ikinci commit w caglayan
 merge sonrası ilk commit
 merge sonrası ikinci commit
 merge sonrası üçüncü commit
+denemeeee
