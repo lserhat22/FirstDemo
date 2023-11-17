@@ -30,3 +30,4 @@ Azure Deneme
 Azure Deneme 2 
 TEST 337&339
 RE-ANALYSIS TESTİ
+sol test
