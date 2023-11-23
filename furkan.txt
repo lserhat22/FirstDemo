@@ -26,10 +26,3 @@ ikinci commit w caglayan
 merge sonrası ilk commit
 merge sonrası ikinci commit
 merge sonrası üçüncü commit
-Azure Deneme
-Azure Deneme 2 
-TEST 337&339
-RE-ANALYSIS TESTİ
-sol test
-SAĞ TEST
-olmuyo muhoooo
