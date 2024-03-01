@@ -1,3 +1,11 @@
 test
 72
 86
+
+ public static void main(String[] args) {
+        // işlem dışı
+    }
+
+    public static void main2(String[] args) {
+
+    }
