@@ -52,7 +52,7 @@ pipeline {
   }
   post {
     success {
-      sh "echo 'Send mail on success'
+      sh "echo 'Send mail on success'"
     }
     failure {
       sh "echo 'Send mail on failure'"
