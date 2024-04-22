@@ -7,7 +7,6 @@ pipeline {
     // Build
     stage('Build') {
       steps {
-        sh 'sleep 300'
         sh "echo 'Run Build'"
       }
     }
@@ -15,7 +14,6 @@ pipeline {
     // Static Code Analysis
     stage('Static Code Analysis') {
       steps {
-        sh 'sleep 300'
         sh "echo 'Run Static Code Analysis'"
       }
     }
@@ -23,7 +21,6 @@ pipeline {
     // Unit Tests
     stage('Unit Tests') {
       steps {
-        sh 'sleep 600'
         sh "echo 'Run Unit Tests'"
       }
     }
@@ -31,7 +28,6 @@ pipeline {
     // Acceptance Tests
     stage('Acceptance Tests') {
       steps {
-        sh 'sleep 500'
         sh "echo 'Run Acceptance Tests'"
       }
     }
