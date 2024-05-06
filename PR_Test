@@ -4,6 +4,7 @@ test
 
  public static void main(String[] args) {
         // işlem dışı
+        // hotfix test
     }
 
     public static void main2(String[] args) {
