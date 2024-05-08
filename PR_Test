@@ -1,7 +1,13 @@
-İlk PR
+test
 
+86
 
+ public static void main(String[] args) {
+        // işlem dışı
+        // hotfix test
+    }
 
-Beşinci PR
-Kerim Abi ile Commit
-Kerim Abi ile Pull Request
+    public static void main2(String[] args) {
+
+    }
+
