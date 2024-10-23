@@ -33,4 +33,3 @@ RE-ANALYSIS TESTİ
 sol test
 SAĞ TEST
 olmuyo muhoooo
-hello world 
